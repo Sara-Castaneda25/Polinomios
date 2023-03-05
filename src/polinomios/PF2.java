@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 public class PF2 {
 
-    //Atributos jeje
+    //Atributos 
     private int Du, VPF2[];
 
     public PF2(int NTer) {
